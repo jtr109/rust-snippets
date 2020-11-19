@@ -1,3 +1,5 @@
+// lib.rs
+
 mod mod_one; // announce mod_one as a lib module
 
 pub use crate::mod_one::hello;
